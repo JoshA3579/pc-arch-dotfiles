@@ -1,0 +1,14 @@
+# Specific ignores:
+Todo & notes.md
+
+# Broad ignores
+*.log
+*.cache
+.cache/
+*.tmp
+*~
+*.history
+## Secrets:
+*token*
+*secret*
+.key
